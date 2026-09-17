@@ -1,0 +1,7 @@
+{
+  "name": "JARVIS AI",
+  "description": "Futuristic personal AI assistant with Bengali, Banglish, and English voice commands, device controls, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
